@@ -1,25 +1,31 @@
 <!-- Crear readme del proyecto -->
-# Project Name
+# Fortnite Shop API
+
+[![GitHub](https://img.shields.io/github/license/fortnite-api-wrapper/fortnite-api-wrapper)](LICENSE)
+[![GitHub](https://img.shields.io/github/issues/fortnite-api-wrapper/fortnite-api-wrapper)](
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
 
-A brief description of your project.
+This is a simple API to get the current Fortnite shop. It uses the [Fortnite-API](https://fortnite-api.com/) to get the data.
 
-## Table of Contents
-
-- [Project Name](#project-name)
+- [Fortnite Shop API](#fortnite-shop-api)
   - [Description](#description)
-  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
 
 ## Installation
+git clone 
 
-Instructions on how to install and run your project.
+npm:
+
+```bash
+npm install 
+```
+
 
 ## Usage
 
