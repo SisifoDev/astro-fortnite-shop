@@ -1,8 +1,6 @@
 <!-- Crear readme del proyecto -->
 # Fortnite Shop API
 
-[![GitHub](https://img.shields.io/github/license/fortnite-api-wrapper/fortnite-api-wrapper)](LICENSE)
-[![GitHub](https://img.shields.io/github/issues/fortnite-api-wrapper/fortnite-api-wrapper)](
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
